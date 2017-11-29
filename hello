@@ -1,2 +1,6 @@
 I am very sad
+<<<<<<< HEAD
 I think I know what is git
+=======
+I create a new branch named dev
+>>>>>>> dev
